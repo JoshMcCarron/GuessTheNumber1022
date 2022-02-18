@@ -38,22 +38,39 @@ There will also be different levels the user can choose to play. The difficulty 
  
  
 Functional Requirements:
+
 -User is asked to input their name.
+
 -The user is given the option to choose the difficulty they want to play.
+
 -There will be three difficulty levels namely easy, medium and hard
+
 -Level easy will be set by generating the number starting from 1 and incrementing the number by 1
+
 -Level easy will be set by generating the number starting from 2 and incrementing the number by 3
+
 -Level hard will be set by generating the numbers at complete random
+
 -To start, the user is given three lives.
+
 -The app prompts the player to guess a number within the range of numbers (depends on the level chosen)
+
 -If the number guessed is right, the user moves on to the next level
+
 -A new number is then generated for the level
+
 -If the guess is incorrect, the user loses a life 
+
 -They are told if their guess was lower or higher than the generated number
+
 -They will then be given the option to guess again
+
 -If the player loses all of their lives, the game ends and they are taken to the leaderboard
+
 -The leaderboard shows each player’s score from highest to lowest
+
 -Throughout the game, the user is always given the option to quit
+
 -At the end, the app displays a play again screen if the user wants to try again
 
 
